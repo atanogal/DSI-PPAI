@@ -1,4 +1,4 @@
-# 🌍 Sistema de Registro de Sismos
+# 🌍 PPAI - DSI - Asignar Deposito OK
 
 **Trabajo Práctico Anual - Diseño de Sistemas (2025)**  
 Universidad | Cátedra de Diseño de Sistemas  
